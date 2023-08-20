@@ -2,7 +2,7 @@
 theme: jekyll-theme-easy-wedding
 title: Aleta & Ira
 email: strawberriesandoysters@gmail.com
-url: https://strawberriesandoysters.github.io/ # Be sure to include http:// or https://
+url: https://strawberriesandoysters.com # Be sure to include http:// or https://
 description: "We're getting married and can't wait to celebrate with you!"
 baseurl: ""
 
@@ -10,6 +10,8 @@ collections:
   stories:
     sort_by: order
   banners:
+  travel:
+    sort_by: order
 
 sass:
   style: compressed

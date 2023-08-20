@@ -1,0 +1,14 @@
+{% for s in site.travel %}
+<section class="container content-section text-left">    
+  <div class="row">    
+
+    <div>
+      <h2>
+        {{ s.title }}
+      </h2>
+
+      <p> {{ s.content | markdownify }} </p>
+    </div>
+  </div>
+</section>
+{% endfor %}
