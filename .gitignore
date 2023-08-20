@@ -1,1 +1,7 @@
-.DS_store
+.sass-cache
+.DS_Store
+.ruby-version
+node_modules
+.jekyll-cache/
+.jekyll-cache/*
+_vendor
