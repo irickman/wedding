@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 2
 ---
 
 Stay at Saltwater Farm!
