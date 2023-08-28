@@ -6,4 +6,4 @@ If you’re staying in Friday Harbor, there is a lot to do that does not require
 
 **There is very limited taxi service and no rideshare service. If you are interested in using a taxi, please let us know so that we can help you make a reservation.**
 
-However, if you are staying outside of Friday Harbor, it likely will be helpful to have a set of wheels, such as a car or bike to get between places. Again, we’re happy to help set up carpools too!
+However, if you are staying outside of Friday Harbor, it may help to have a set of wheels, such as a car or bike, to get between places. Again, we’re happy to help set up carpools too!
