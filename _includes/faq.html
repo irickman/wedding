@@ -1,0 +1,19 @@
+{% assign i = site.details | find: "type", "faq" %}
+<section class="container content-section">
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+        <p> {{ i.content | markdownify }}</p>
+    </div>
+  <div>
+  <div style="margin-top: 20px;"></div>
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+      <dl>
+        {% for one in site.data.faq %}
+          <dt><h3 class="faq-question">{{ one.question }}</h3></dt>
+          <dd><p class="faq-answer">{{ one.answer }}</p></dd>
+        {% endfor %}
+      </dl>
+    </div>
+  </div>
+</section>

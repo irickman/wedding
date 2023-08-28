@@ -1,14 +1,39 @@
-{% for s in site.travel %}
-<section class="container content-section text-left">    
-  <div class="row justify-content-left">    
-
-    <div>
-      <h2>
-        {{ s.title }}
-      </h2>
-
-      <p> {{ s.content | markdownify }} </p>
+<!-- Table of Contents -->
+<style>
+  .table-of-contents {
+    list-style: none;
+    display: inline;
+    padding: 20;
+    margin: 20;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif; /* Use Raleway font */
+    text-align: center;
+  }
+  .table-of-contents a {
+    text-decoration: none; /* Remove underline from links */
+    color: black; /* Set font color to black */
+  }
+</style>
+<section class="container content-section">    
+  <div class="row justify-content-center">
+    <ul class="table-of-contents">
+      {% for s in site.travel %}
+        <li style="display: inline;"><a href="#{{ s.title | slugify }}">{{ s.title }}</a>{% unless forloop.last %} | {% endunless %}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div style="margin-top: 20px;"></div>
+  {% for s in site.travel %}
+  <div class="row justify-content-center">    
+    <div class="col-lg-8">
+        <h2>
+          {{ s.title }}
+        </h2>      
+        <p> {{ s.content | markdownify }} </p>
+        <div style="margin-top: 20px;"></div>
     </div>
   </div>
+  {% endfor %}
 </section>
-{% endfor %}
+

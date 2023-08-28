@@ -1,11 +1,14 @@
 <!-- Schedule Header -->
+{% assign i = site.details | find: "type", "schedule" %}
 <section class="container content-section">
     <div class="row justify-content-center">
-      <p> {{site.data.intros.description}}</p>
+      <div class="col-lg-8">
+        <p> {{ i.content | markdownify }}</p>
+      </div>
     </div>
 </section>
 
-{% for event in site.data.events %}
+<!-- {% for event in site.data.events %}
   <section class="container content-section">
     <div class="row justify-content-center">    
 
@@ -55,4 +58,4 @@
       </div>
     </div>
   </section>
-{% endfor %}
+{% endfor %} -->

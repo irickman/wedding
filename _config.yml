@@ -12,6 +12,9 @@ collections:
   banners:
   travel:
     sort_by: order
+    output: true
+  details:
+
 
 sass:
   style: compressed
