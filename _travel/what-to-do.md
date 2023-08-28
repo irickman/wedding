@@ -1,7 +1,7 @@
 ---
 order: 4
 ---
-San Juan Island is a summer paradise! We have lots of ideas about how to travel in Washington – see below for some of our PNW highlights, based on the amount of time you have to spend on vacation. 
+San Juan Island is a summer paradise! We’ll have wedding-related events and activities on the island Friday, August 9 through Sunday, August 11. We’re a bit biased, but we love this area and if you have some time to explore, San Juan Island or the rest of the PNW, we encourage you to add a few days to your trip on either end. We have lots of ideas about how to travel in Washington; see below for some of our PNW highlights, based on the amount of time you have to spend on vacation.
 
 #### Just a long weekend
 If you’re only able to travel for the wedding, let’s focus on San Juan Island. First, make sure your travel plans are squared away so that you can maximize time on the island. Here are some of our SJI highlights:
