@@ -27,11 +27,7 @@ If you want to tack on a few days on either end of the celebrations, here are a 
 <br>      
 * If you have a hankering to see other islands in the San Juan archipelago, there is ferry service to other islands in the San Juans:  
     * *Lopez Island*: Very quiet island with several parks and a handful of eateries/bakeries. This would be a great place to unplug for a few days and really relax. 
-    * *Orcas Island*: More touristy, this island has some incredible restaurants (Matia and Monti!), beautiful parks (Moran State Park), great accommodations and many of the same island activities as SJI – just with a different island flair.    
-<br>
-* If you have a hankering to see other islands in the archipelago, there is ferry service to other islands in the San Juans:  
-	* *Lopez Island*: Very quiet island with several parks and a handful of eateries/bakeries. This would be a great place to unplug for a few days and really relax. 
-	* *Orcas Island*: More touristy, this island has some incredible restaurants (Matia and Monti!), beautiful parks (Moran State Park), great accommodations and many of the same island activities as SJI – just with a different island flair.    
+    * *Orcas Island*: More touristy, this island has some incredible restaurants (Matia and Monti!), beautiful parks (Moran State Park), great accommodations and many of the same island activities as SJI – just with a different island flair.       
 <br>  
 * If you’re familiar with Seattle and want to go further afield, we may suggest some outdoor explorations:  
 	* *Mount Rainier National Park (southeast of Seattle)*: This is doable in a long day, but doubly worth it if you can plan an overnight pitstop too. We recommend a loop from Seattle - driving south to Sunrise Lodge and then on to Paradise Lodge. There are good short trails from both lodges that showcase good mountain views and wildflowers! 
