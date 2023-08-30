@@ -14,6 +14,8 @@ collections:
     sort_by: order
     output: true
   details:
+  transportation:
+    sort_by: order
 
 
 sass:

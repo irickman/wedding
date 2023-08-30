@@ -2,10 +2,18 @@
   link: /#ourstory
 - name: Wedding Weekend
   link: /schedule
-- name: Travel
-  link: /travel
+- name: Where to Stay
+  link: /where-to-stay
+- name: Transportation
+  link: /transportation
+- name: What to Do
+  link: /what-to-do
 - name: FAQ
   link: /faq
+- name: Registry
+  link: /registry
+- name: RSVP
+  link: /rsvp
 - name: More
   link: /more
 

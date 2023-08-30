@@ -98,10 +98,6 @@ RSVP
     </div>
 
     
-      <div class="collapse rsvp-help-collapse help-text" id="rsvp-warning-text">
-        <div>As much as we would love to have everyone, please only include guests that were listed on your invitation</div>
-      </div>
-    
 
     <div class="collapse" id="guest-names-collapse">
       <div class="input-group">
@@ -123,37 +119,18 @@ RSVP
     </div>
 
     
-      <div class="input-group invite-code-group">
-        <span class="input-group-text"><i class="fa fa-key"></i></span>
-        <input type="text" name="invite_code" id="invite-code" class="form-control" placeholder="Invite Code" required autocomplete="new-password">
-        <span class="input-group-text"><i class="fa fa-info-circle rsvp-help-toggle" id="rsvp-help-toggle"></i></span>
-      </div>
-      <div class="collapse rsvp-help-collapse help-text" id="rsvp-code-help-text">
-        <div>You can put the code on the back of your RSVP card, or turn off this functionality all together. The code for this sample is 1234</div>
-      </div>
-    
 
     <div class="form-check form-check-inline">
       <input class="form-check-input" type="radio" name="rsvpRadio" id="rsvp-yes" value="yes" required>
-      <label class="form-check-label" for="rsvp-yes">I'll be there</label>
+      <label class="form-check-label" for="rsvp-yes"></label>
     </div>
     <div class="form-check form-check-inline">
       <input class="form-check-input" type="radio" name="rsvpRadio" id="rsvp-no" value="no" required>
-      <label class="form-check-label" for="rsvp-no">I can't make it</label>
+      <label class="form-check-label" for="rsvp-no"></label>
     </div>
 
     
-      <div class="input-group">
-        <span class="input-group-text"><i class="fa fa-music"></i></span>
-        <input type="text" name="song" class="form-control" placeholder="What songs will get you dancing?" autocomplete="new-password">
-      </div>
-    
 
-    
-      <div class="input-group">
-        <span class="input-group-text"><i class="fa fa-envelope"></i></span>
-        <textarea class="form-control" name="message" rows="3" placeholder="Leave a message for the bride and groom." autocomplete="new-password"></textarea>
-      </div>
     
 
     <div class="alert-wrapper" id="alert-wrapper"></div>
@@ -161,10 +138,10 @@ RSVP
 
   <div class="modal-footer">
     <button type="button" class="btn btn-default" data-bs-dismiss="modal">
-      Cancel
+      
     </button>
     <button type="submit" class="btn btn-primary" value="Submit" name="submit">
-      RSVP
+      
     </button>
   </div>
 </form>
@@ -180,13 +157,13 @@ RSVP
     <div class="modal-content">
       
   <div class="modal-header">
-    <h4 class="modal-title" id="myModalLabel">Thank You!</h4>
+    <h4 class="modal-title" id="myModalLabel"></h4>
     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
   </div>
   <div class="modal-body">
     <div class="section-padding">
-      <p>We really wish you could have made it, but we still love you. <span class="fa fa-heart"></span></p>
-      <p>You'll receive a text confirmation shortly.</p>
+      <p></p>
+      <p></p>
     </div>
   </div>
 
@@ -226,13 +203,13 @@ RSVP
     <div class="modal-content">
       
   <div class="modal-header">
-    <h4 class="modal-title" id="myModalLabel">Thank You!</h4>
+    <h4 class="modal-title" id="myModalLabel"></h4>
     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
   </div>
   <div class="modal-body">
     <div class="section-padding">
-      <p>We're glad that you're hanging out with us on our wedding day!</p>
-      <p>You'll receive a text confirmation shortly.</p>
+      <p></p>
+      <p></p>
       <div id="add-to-cal"></div>
     </div>
   </div>
@@ -283,13 +260,37 @@ RSVP
                     
                       
                         <li class=" nav-item">
-                            <a href="/travel" class="nav-link">Travel</a>
+                            <a href="/where-to-stay" class="nav-link">Where to Stay</a>
+                        </li>
+                      
+                    
+                      
+                        <li class=" nav-item">
+                            <a href="/transportation" class="nav-link">Transportation</a>
+                        </li>
+                      
+                    
+                      
+                        <li class=" nav-item">
+                            <a href="/what-to-do" class="nav-link">What to Do</a>
                         </li>
                       
                     
                       
                         <li class=" nav-item">
                             <a href="/faq" class="nav-link">FAQ</a>
+                        </li>
+                      
+                    
+                      
+                        <li class=" nav-item">
+                            <a href="/registry" class="nav-link">Registry</a>
+                        </li>
+                      
+                    
+                      
+                        <li class=" nav-item">
+                            <a href="/rsvp" class="nav-link">RSVP</a>
                         </li>
                       
                     
@@ -339,6 +340,10 @@ RSVP
           <dd><p class="faq-answer">When we started our initial planning for the wedding, we asked ourselves: what are non-negotiables for the celebration? For Ira, the answer was strawberries, and for Aleta, the response was oysters – as both are some of our very favorite things. We’re planning to have both food items at our wedding and we hope you’ll be able to sample some of the finest PNW options of each.
 </p></dd>
         
+          <dt><h3 class="faq-question">How do I RSVP for this fabulous weekend?</h3></dt>
+          <dd><p class="faq-answer">We’ll be in touch to share an RSVP link before the end of the year!
+</p></dd>
+        
           <dt><h3 class="faq-question">Can I bring my kids?</h3></dt>
           <dd><p class="faq-answer">Yes! We love your little ones and would be honored to have them boogie with us at our wedding. Please be sure to include them in your RSVP so we can appropriately account for attendees.
 </p></dd>
@@ -351,8 +356,16 @@ RSVP
           <dd><p class="faq-answer">Most activities will be outside, though we will have access to rain sites (if needed) and parts of the reception may have an indoor option (but remember, layers)! Please bring shoes that you can walk in, as you will have to traverse some sections of unpaved ground (a lawn, garden, and gravel pathway) at various points throughout the weekend.
 </p></dd>
         
+          <dt><h3 class="faq-question">What is the dress code for the weekend?</h3></dt>
+          <dd><p class="faq-answer">We’ll provide additional information on dress code as we finalize our slate of wedding events and adventures, but expect that it will range from PNW chic (think: flannels, fleeces and jeans) to cocktail (you know: fun dresses, jumpsuits, and slacks).
+</p></dd>
+        
+          <dt><h3 class="faq-question">Where is your registry? Can I send you a gift?</h3></dt>
+          <dd><p class="faq-answer">We’ll add more information on the website soon regarding a <a href="https://www.strawberriesandoysters.com/registry/">registry </a> and gifting, but please know that your presence at our wedding weekend is present enough!    
+</p></dd>
+        
           <dt><h3 class="faq-question">What's the best way to contact you if I have additional questions?</h3></dt>
-          <dd><p class="faq-answer">Aleta and Ira are both available via text, phone call, or our new shared email: strawberriesandoysters@gmail.com.
+          <dd><p class="faq-answer">Aleta and Ira are both available via text, phone call, or our new shared email: <a href="mailto: strawberriesandoysters@gmail.com">strawberriesandoysters@gmail.com.</a>
 </p></dd>
         
       </dl>
