@@ -15,7 +15,7 @@ Hello nerds, one and all! We’ve curated a reading/listening list for all your 
 * [Proposed San Juan Island trail divides farmers, recreation advocates](https://www.seattletimes.com/life/outdoors/proposed-san-juan-island-trail-divides-farmers-recreation-advocates/) (Seattle Times, August 9, 2023)
 * [On San Juan Island, tension over red foxes and photographers’ access to them](https://www.seattletimes.com/pacific-nw-magazine/on-san-juan-island-tension-over-red-foxes-and-photographers-access-to-them/) (Seattle Times, August 4, 2023)
 
-#### Travel Idea
+#### Travel Ideas
 * [This Stunning Pacific Northwest Destination Is Home to Idyllic Islands, Epic Whale-watching Tours, and Rustic Lodges](https://www.travelandleisure.com/trip-ideas/island-vacations/san-juan-islands-washington-orcas-lopez) (Travel + Leisure, July 28, 2022)
 * [A first-timer's guide to the San Juan Islands: Everything you need to know before you go](https://www.lonelyplanet.com/articles/first-time-guide-to-san-juan-islands) (Lonely Planet, April 6, 2022)
 * [You don’t always need a whole weekend: Making the most of a one-day trip to the San Juan Islands](https://www.seattletimes.com/life/you-dont-always-need-a-whole-weekend-making-the-most-of-a-one-day-trip-to-the-san-juan-islands/) (Seattle Times, November 17, 2018)
