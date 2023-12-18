@@ -1,8 +1,8 @@
 - name: Welcome Party
-  date: 2024-08-9 6:00:00 −07:00
+  date: Friday, August 9, 2024
   time: 6 pm
-  attire: Casual PNW finest (flannels, jeans, and birkenstocks (with or without socks), encouraged!)
-  description: Join us for dinner, drinks, and mingles at Saltwater Farm. There will be a shuttle available from town to bring guests to and from Saltwater.
+  attire: tbd
+  description: Join us for a welcome party in the garden at Saltwater Farm! We will likely be serving dinner along with refreshments.
   transportation:
   location:
     address: 176 Sea Breeze Ln
@@ -14,30 +14,30 @@
     google_maps_url: https://goo.gl/maps/WtGKYrhodAcAWVnm7
     venue_name: Garden at Saltwater Farm
 
-- name: Morning Run & Hike
-  date: 2024-08-10 8:00:00 −07:00
+- name: TBD Morning Event  
+  date: 2024-08-10 9:00:00 −07:00
   endDate: 2024-08-10 23:00:00 -07:00
   attire: 
   description: 
   transportation:
   shuttle:
   location:
-    address: 4668 Cattle Point Rd
+    address: 176 Sea Breeze Ln
     city: Friday Harbor
     state: WA
     long_state: Washington
     zip: 98250
-    coordinates: 48.4648856977373, -123.02436453462083
-    google_maps_url: https://maps.app.goo.gl/Ykrzqeqz465zPzmC8
-    venue_name: Visitor Center at American Camp
+    coordinates: 48.52277032512261, -123.03526742698831
+    google_maps_url: https://goo.gl/maps/WtGKYrhodAcAWVnm7
+    venue_name: Terrace at Saltwater Farm
   calendar_description:
 
-- name: Wedding Ceremony  
+- name: Wedding Ceremony
   main_event: true
-  date: 2024-08-10 16:30:00 −07:00
+  date: 2024-08-10 17:00:00 −07:00
   endDate: 2024-08-10 23:00:00 -07:00
   attire: 
-  description: We’re planning to do a short trail run and/or hike (~3ish miles) through the historic American Camp.
+  description: 
   transportation:
   shuttle:
   location:

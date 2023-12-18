@@ -1,61 +1,61 @@
 <!-- Schedule Header -->
 {% assign i = site.details | find: "type", "schedule" %}
 <section class="container content-section">
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        <p> {{ i.content | markdownify }}</p>
-      </div>
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+      <p> {{ i.content | markdownify }}</p>
     </div>
+  </div>
+  
+  <!--  
+  {% for event in site.data.events %}
+  <div style="margin-top: 20px;"></div>
+  <div class="row justify-content-center">    
+
+    <div class="col-lg-8 ">
+      <h3>
+        {{ event.name }}
+        <br>
+        <small class="text-muted wrap-whitespace date-subheader">
+          {% if event.date %}
+            {{ event.date | date: '%A, %B %e, %Y' }} | {{ event.date | date: '%l:%M %p' }}
+          {% else %}
+            {{ event.date_alt }}
+          {% endif %}
+        </small>
+      </h3>
+
+      <div class="d-flex justify-content-between align-items-center">
+        <address class="col-xs-8 ">
+          {% if event.location_name %}
+          <strong>{{ event.location_name }}</strong><br>
+          {% endif %}
+          {% if event.location.google_maps_url %}
+          <a href="{{ event.location.google_maps_url }}">
+            {{ event.location.address }}<br>
+            {{ event.location.city }}, {{ event.location.state }} {{ event.location.zip }}<br>
+          </a>
+          {% endif %}
+        </address>
+
+        <dl class="col-xs-4">
+          <dt>Attire</dt>
+          <dd>{{ event.attire | capitalize }}</dd>
+        </dl>
+
+      </div>
+
+      <p>{{ event.description }}</p>
+      
+      {% if event.transportation %}
+        <p><em>{{ event.transportation }}</em></p>
+      {% endif %}
+
+      {% if event.shuttle %}
+        <p><em>{{ event.shuttle }}</em></p>
+      {% endif %}
+    </div> 
+  </div>
+  {% endfor %}
 </section>
-
-<!-- {% for event in site.data.events %}
-  <section class="container content-section">
-    <div class="row justify-content-center">    
-
-      <div class="col-lg-7 col-sm-8">
-        <h2>
-          {{ event.name }}
-          <br>
-          <small class="text-muted wrap-whitespace date-subheader">
-            {% if event.date %}
-              {{ event.date | date: '%A, %B %e, %Y' }} | {{ event.date | date: '%l:%M %p' }}
-            {% else %}
-              {{ event.date_alt }}
-            {% endif %}
-          </small>
-        </h2>
-
-        <div class="d-flex justify-content-between align-items-center">
-          <address class="col-xs-8 ">
-            {% if event.location_name %}
-            <strong>{{ event.location_name }}</strong><br>
-            {% endif %}
-            {% if event.location.google_maps_url %}
-            <a href="{{ event.location.google_maps_url }}">
-              {{ event.location.address }}<br>
-              {{ event.location.city }}, {{ event.location.state }} {{ event.location.zip }}<br>
-            </a>
-            {% endif %}
-          </address>
-
-          <dl class="col-xs-4">
-            <dt>Attire</dt>
-            <dd>{{ event.attire | capitalize }}</dd>
-          </dl>
-
-        </div>
-
-        <p>{{ event.description }}</p>
-        
-        {% if event.transportation %}
-          <p><em>{{ event.transportation }}</em></p>
-        {% endif %}
-
-        {% if event.shuttle %}
-          <p><em>{{ event.shuttle }}</em></p>
-        {% endif %}
-
-      </div>
-    </div>
-  </section>
-{% endfor %} -->
+-->
