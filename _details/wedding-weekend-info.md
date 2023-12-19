@@ -4,15 +4,16 @@ type: schedule
 We’re excited to have you all with us on San Juan Island in August 2024! San Juan Island is pretty remote, so we’re hoping that you’ll be able to take some time to enjoy the journey to the island and bask in what locals call “island time.” We’re planning to have a full weekend of casual, serious, and rowdy events. 
 
 There's a lot to do on San Juan Island and we want to make sure everyone enjoys all that the island has to offer! We’re hoping to organize some group activities for wedding attendees (including some activities that require advanced reservations/guides/ tours). If you're interested in any of those options (like whale watching or kayaking), **please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeunoBDLhP2mxeV1VxvEr4KCjSYWpOzsJ_99im0C-GEZOb9FA/viewform)**, so we can get a sense of interest and numbers.
-
+<br>
+<br>
 
 ## Thursday, August 8
 We recommend arriving **no later than Thursday, August 8** to kickstart your SJI weekend. We’ll be on island by this point, and we’re hoping to organize a few island activities for folks with more details to come. 
 <br>
+<br>
 
 ## Friday, August 9
 On Friday, August 9, we’re hoping to plan some island activities for folks during the day. Check back for more details on timing, etc. 
-<br>
 
 #### Welcome Party 
 ###### 6 pm | Garden at Saltwater Farm [176 Sea Breeze Ln, Friday Harbor, WA 98250](https://maps.app.goo.gl/XAzVEw44sGqpBMk1A)
@@ -20,6 +21,7 @@ On Friday, August 9, we’re hoping to plan some island activities for folks dur
 Join us for dinner, drinks, and mingles at Saltwater Farm. There will be a shuttle available from town to bring guests to and from Saltwater. 
 
 **Dress**: Casual PNW finest (flannels, jeans, and birkenstocks (with or without socks), encouraged!)
+<br>
 <br>
 
 ## Saturday, August 10
@@ -37,7 +39,7 @@ Meet at the Visitor’s Center  for a short trail run and/or hike (~3ish miles) 
 
 Join us for an evening of wedding celebrations. We’ll have a ceremony on the picturesque ceremony lawn and then walk to the barn to celebrate in style. Please try to arrive by 4:15 pm. There will be a shuttle available from town to bring guests to and from Saltwater Farm.
 
-**Dress**: PNW party (Cocktail or semi-formal is fine, and anything nicer than jeans preferred). 
+***The dress code is PNW party (cocktail or semi-formal is fine, and anything nicer than jeans preferred).*** 
 
 ##### Ceremony
 ###### 4:30 pm | Ceremony Lawn
@@ -51,6 +53,7 @@ The ceremony will be outside on the ceremony lawn. Please bring a pair of shades
 We'll kick things off with a cocktail hour, followed by family style dinner, and a night of dancing!
 
 *We may also organize an off-property after party, more to come!*
+<br>
 <br>
 
 ## Sunday, August 11
