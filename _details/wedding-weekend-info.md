@@ -16,7 +16,7 @@ We recommend arriving **no later than Thursday, August 8** to kickstart your SJI
 On Friday, August 9, we’re hoping to plan some island activities for folks during the day. Check back for more details on timing, etc. 
 
 #### Welcome Party 
-###### 6 pm | Garden at Saltwater Farm [176 Sea Breeze Ln, Friday Harbor, WA 98250](https://maps.app.goo.gl/XAzVEw44sGqpBMk1A)
+###### 6:00 pm | Garden at Saltwater Farm [176 Sea Breeze Ln, Friday Harbor, WA 98250](https://maps.app.goo.gl/XAzVEw44sGqpBMk1A)
  
 Join us for dinner, drinks, and mingles at Saltwater Farm. There will be a shuttle available from town to bring guests to and from Saltwater. 
 
@@ -28,28 +28,26 @@ Join us for dinner, drinks, and mingles at Saltwater Farm. There will be a shutt
 On Saturday, August 10, we’re getting married! Join us for a full day of activities:
 
 #### Morning Run & Hike
-###### 8am | American Camp [4668 Cattle Point Rd, Friday Harbor, WA 98250](https://maps.app.goo.gl/kAbFFHL1EbvPjhbN7)
+###### 8:00 am | American Camp [4668 Cattle Point Rd, Friday Harbor, WA 98250](https://maps.app.goo.gl/kAbFFHL1EbvPjhbN7)
  
 Meet at the Visitor’s Center  for a short trail run and/or hike (~3ish miles) through the historic American Camp.
 
 *We may organize some group tours on this day to help explore the island and surrounding area – we’ll be in touch with details on possible whale watching cruises, kayaking, or other adventures.*
 
 #### Wedding Festivities
-###### 4:15 pm | Saltwater Farm [176 Sea Breeze Ln, Friday Harbor, WA 98250](https://maps.app.goo.gl/XAzVEw44sGqpBMk1A) 
+###### 3:45 pm | Saltwater Farm [176 Sea Breeze Ln, Friday Harbor, WA 98250](https://maps.app.goo.gl/XAzVEw44sGqpBMk1A) 
 
-Join us for an evening of wedding celebrations. We’ll have a ceremony on the picturesque ceremony lawn and then walk to the barn to celebrate in style. Please try to arrive by 4:15 pm. There will be a shuttle available from town to bring guests to and from Saltwater Farm.
+Join us for an evening of wedding celebrations. We’ll have a ceremony on the picturesque ceremony lawn and then walk to the barn to celebrate in style. Please try to arrive by 3:45 pm. There will be a shuttle available from town to bring guests to and from Saltwater Farm.
 
-***The dress code is PNW party (cocktail or semi-formal is fine, and anything nicer than jeans preferred).*** 
+**The dress code is PNW party (cocktail or semi-formal is fine, and anything nicer than jeans preferred). Of note, the walk between the ceremony site and the reception is a bit over a quarter mile of gravel road. If you plan to wear heels, please consider a chunky heel or wedges.**
 
 ##### Ceremony
-###### 4:30 pm | Ceremony Lawn
+###### 4:00 pm | Ceremony Lawn
  
 The ceremony will be outside on the ceremony lawn. Please bring a pair of shades and some sunscreen in case of sun!
 
-*The walk between the ceremony site, cocktail hour and dinner is a bit over a quarter mile of gravel road. If you plan to wear heels, please consider a chunky heel or wedges.*
-
 ##### Dinner and Dancing
-######  5:30pm - 11pm | the Barn
+######  5:00 pm - 11:00 pm | Barn
 We'll kick things off with a cocktail hour, followed by family style dinner, and a night of dancing!
 
 *We may also organize an off-property after party, more to come!*
@@ -58,6 +56,6 @@ We'll kick things off with a cocktail hour, followed by family style dinner, and
 
 ## Sunday, August 11
 #### Sendoff Brunch
-######  11am | TBD park
+######  11:00 am | TBD park
 
 Whew! We’re hungry for baked goods, are you? We’ll gather outside near Friday Harbor for some bites as we compare notes about the best dance moves from the night before. 
