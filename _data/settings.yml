@@ -1,9 +1,9 @@
 google_analytics_id: "G-MSRQ7W5F3R"
 
-hero_image: assets/img/backgrounds/saltwater.jpg
+hero_image: /background/saltwater.jpg
 hero_position: center center
-# mobile_hero_image: assets/img/bell.jpg
-# mobile_hero_position: center center
+#mobile_hero_image: assets/img/backgrounds/saltwater.jpeg
+#mobile_hero_position: center center
 
 theme:
   # text_color: '#404040'

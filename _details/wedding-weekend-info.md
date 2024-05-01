@@ -27,10 +27,10 @@ Join us for dinner, drinks, and mingles at Saltwater Farm. There will be a shutt
 ## Saturday, August 10
 On Saturday, August 10, we’re getting married! Join us for a full day of activities:
 
-#### Morning Run & Hike
+#### Morning Run, Hike, & Dip!
 ###### 8:00 am | American Camp [4668 Cattle Point Rd, Friday Harbor, WA 98250](https://maps.app.goo.gl/kAbFFHL1EbvPjhbN7)
  
-Meet at the Visitor’s Center  for a short trail run and/or hike (~3ish miles) through the historic American Camp.
+Meet at the Visitor’s Center  for a short trail run and/or hike (~3ish miles) through the historic American Camp, followed by a dip in the Haro Strait!
 
 *We may organize some group tours on this day to help explore the island and surrounding area – we’ll be in touch with details on possible whale watching cruises, kayaking, or other adventures.*
 
