@@ -57,7 +57,7 @@ We'll kick things off with a cocktail hour, followed by family style dinner, and
 
 ##### Ira's Big Bowling Birthday Bash
 ######  11:00 pm - later | [JP's](https://www.jpsrestaurantbar.com/)
-This isn't just any after party, it's Ira's Big Bowling Birthday Bash! Ira has been joking about having a bowling birthday party for two years and we thought - what better time to hold it than directly after our wedding. We'll have a shuttle taking guests from Saltwater Farm to JP's, which is right in Friday Harbor. The shuttle will also take folks home from JP's as well. We tested our JP's in May and had a blast - there's bowling, arcade games, pool, music, a gathering space, and a bar. We hope you'll join us!
+This isn't just any after party, it's Ira's Big Bowling Birthday Bash! Ira has been joking about having a bowling birthday party for two years and we thought - what better time to hold it than directly after our wedding. We'll have a shuttle taking guests from Saltwater Farm to JP's, which is right in Friday Harbor. The shuttle will also take folks home from JP's as well. We bowled a few frames at JP's in May and had a blast - there's bowling, arcade games, pool, music, a gathering space, and a bar. We hope you'll join us!
  
 
 
