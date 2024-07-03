@@ -2,24 +2,45 @@
 order: 1
 type: plans
 ---
-San Juan Island is a summer paradise! We’ll have wedding-related events and activities on the island Friday, August 9 through Sunday, August 11. We’re a bit biased, but we love this area and if you have some time to explore San Juan Island (SJI) or the rest of the PNW, we encourage you to add a few days to your trip on either end. We have lots of ideas about how to travel in Washington! Read more below for some of our recommendations, based on the amount of time you have to spend on vacation. 
+San Juan Island is a summer paradise! We’ll have wedding-related events and activities on the island Friday, August 9 through Sunday, August 11. We’re a bit biased, but we love this area and if you have some time to explore San Juan Island (SJI) or the rest of the PNW, we encourage you to add a few days to your trip on either end. We have lots of ideas about how to travel in Washington! 
 
-#### Just a long weekend
+#### What to do on San Juan Island
 If you’re only able to travel for the wedding, let’s focus on San Juan Island (SJI). First, make sure your travel plans are squared away so that you can maximize time on the island.
 
-In Friday Harbor, we’ve enjoyed bites from San Juan Island Brewing, Bakery San Juan, and Crow’s Nest Coffee Shop. We’re hoping to add to this list as we make visits up to SJI for wedding planning over the next year.
+If you're staying in Friday Harbor, check out some of our favorite spots:
+##### Drinks
+* San Juan Island Brewing
+* Madrone Wine & Cider Bar
 
+##### Coffee
+* Little Fox Coffee Shop
+* Crows Nest Coffee Shoppe
+
+##### Bites
+* Bakery San Juan (closed on weekends)
+* San Juan Island Sea Salt for fresh-baked cookies
+* Oystertale
+* Downriggers
+* The Market Chef
+
+##### Groceries
+* Kings Market - legitimately well stocked grocery store
+* San Juan Food Co-op
+
+##### Indoor Activities
+* Whale Museum
+* The San Juan Islands Museum of Art
+
+##### The rest of the island
 We’ll take the rest of our sightseeing cues from [San Juan Island’s Scenic Byway](https://www.visitsanjuans.com/san-juan-islands-scenic-byway-route-2011.pdf), which circumnavigates most of the island:
 * From Friday Harbor, head south to American Camp at San Juan Island National  Historical Park. This park is huge with forests, beaches, and prairies to explore. You'll likely spot some bald eagles and red foxes while you're there!
 * Next, head west to Lime Kiln Point State Park (aka Whale Watch Park). This is a scenic spot that is supposedly one of the best places to see whales from shore (we have yet to do so, but feeling lucky for 2024)! On the way to Lime Kiln State Park, you may want to stop at Pelindaba Lavender Farm & Gatehouse Store, if you’re feeling flowery. 
 * Continue north toward Roche Harbor, with options to stop at Krystal Acres Alpaca Farm (for petting cute alpacas), English Camp (a smaller part of San Juan Island National Historical Park, but equally interesting for history of the [Pig War](https://www.strawberriesandoysters.com/more/)), and the Sculpture Park at Westcott Bay (a quirky, artsy spot to stretch your legs just outside of Roche Harbor). Additionally, along this route is [Westcott Bay Shellfish Co.](https://www.westcottbayshellfish.com/), a delightful place to spend the afternoon, eating seafood and sipping cold beverages.
-* Roche Harbor (northwestern corner of the island) is primarily a marina (great for yacht spotting!) and a solid place to load up on road trip (or bike ride!) snacks. If you’re there on a Saturday or Sunday and like cider or gin, we also recommend a tasting at [San Juan Island Distillery](https://www.sanjuanislanddistillery.com/?utm_source=VisitSanJuans&utm_medium=website&utm_campaign=VisitSanJuans%20Referral).
+* Roche Harbor (northwestern corner of the island) is primarily a marina (great for yacht spotting!) and a solid place to load up on road trip (or bike ride!) snacks. If you’re there on a Saturday or Sunday and like cider or gin, we also recommend a tasting at [San Juan Island Distillery](https://www.sanjuanislanddistillery.com/?utm_source=VisitSanJuans&utm_medium=website&utm_campaign=VisitSanJuans%20Referral). They also do tastings on Fridays if you just let them know in advance!
 * If you’re feeling adventurous and want to stretch your legs again, there is also a tiny, adorable county park on the northeastern side of the island called [Reuben Tarte County Park](https://goo.gl/maps/gK33Ks7xAiLjEQXV7). We recommend it as a picnic location and, potentially, whale watching (we saw whales here last time we were on SJI)!
 * Head back south toward Friday Harbor to conclude your tour of the island. If you need to stock up on libations, we suggest a stop at [San Juan Vineyard](https://www.sanjuanvineyard.com/) (also where Aleta’s sister Ara celebrated her engagement over 20 years ago)! 
 
-#### Fully unplugged
-If you're able to tack on a few days on either end of the celebrations, here are a few additional ideas of places to explore nearby. 
-
+#### What to do in Seattle
 If you’re flying through Seattle, it may be worth taking a day to see some of our favorite Seattle sites:     
 * Pike Place Market (we endorse stops at Beecher’s Handmade Cheese and Rachel’s Ginger Beer - only wait in line to order at the first Starbucks if you feel it will complete your life)
 * The Chihuly Museum at the base of the Space Needle
@@ -28,6 +49,8 @@ If you’re flying through Seattle, it may be worth taking a day to see some of 
 * Local-ish hikes (there’s a wide range of hikes within 60 minutes of Seattle by car - let us know if you want a recommendation or check out the [Washington Trails Association](https://www.wta.org/go-outside/map) to find one)
 * Any Seattle brewery (our favorites are Fair Isle and Lucky Envelope in the Ballard Brewery district and Holy Mountain in Greenwood or Interbay)    
 
+
+#### What to do in the greater PNW
 If you have a hankering to see other islands in the San Juan archipelago, there is ferry service to other islands in the San Juans:  
 * **Lopez Island**: Very quiet island (sometimes called “slowpez island” by locals) with several parks and a handful of eateries/bakeries. This would be a great place to unplug for a few days and really relax. 
 * **Orcas Island**: More touristy, this island has some incredible restaurants (Matia and Monti!), beautiful parks (Moran State Park), great accommodations, and many of the same island activities as SJI – just with a different island flair.  

@@ -20,7 +20,7 @@ We set up a 4 hour (2.5 hours on the water) kayak tour with [SeaQuest Kayak Tour
 If you are interested in a [bioluminescent tour](https://sea-quest-kayak.com/kayaking-san-juan-islands/bioluminescence-kayak-tours/) or longer [6 hour tour](https://sea-quest-kayak.com/kayaking-san-juan-islands/1-day-san-juan-kayaking-trips/) (which they highly recommend) please feel free to sign up for that instead! 
 
 ##### Other Activities
-Let us know what else you're interested in [here](https://forms.gle/zTke6H5Ygok3wktx9).
+Let us know what else you're interested in [here](https://forms.gle/zTke6H5Ygok3wktx9). We're hoping to connect folks with similar interests for activities and help with reservations (if needed). 
 
 #### Welcome Party 
 ###### 6:00 pm | Garden at Saltwater Farm [176 Sea Breeze Ln, Friday Harbor, WA 98250](https://maps.app.goo.gl/XAzVEw44sGqpBMk1A)
