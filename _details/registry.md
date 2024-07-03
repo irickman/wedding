@@ -6,10 +6,10 @@ We are so incredibly excited to celebrate our wedding with you on San Juan Islan
 However, we’ve been asked about our registry and have honestly had a difficult time with the idea. We’ve had far more conversation about it than almost any other decision we’ve made for our wedding and covered ground such as the ethics of asking for gifts, the privilege of not needing them, what it means to accept gifts with grace, and some light research on the origin of registries and how they reinforced gender roles in marriage.
 
 So, we asked for advice from some of you and it was suggested that we: 
-1. Make a registry, because if we didn’t have one, people’s denominational and non-denominational compulsions would lead them to give us a gift anyways.
-2. Only ask for things we’d actually want and don’t feel pressure to put anything we aren’t absolutely certain we’ll love, on there.
+1. Make a registry, because if we didn’t have one, people’s denominational and non-denominational compulsions may lead them to give us a gift anyways.
+2. Only ask for things we’d actually want and don’t feel pressure to put anything we aren’t absolutely certain we’ll love on the registry.
 
-So after some further discussion and an increasing realization that waiting wasn’t making anything better, we offer the following gifting ideas:
+So after some further discussion, we offer the following gifting ideas:
 
 #### Registries
 We found some things we would deeply appreciate receiving from [Williams Sonoma](https://www.williams-sonoma.com/registry/n6c62rxlrg/registry-list.html) and [REI](https://www.rei.com/lists/418427059). If you need our address when you check out, please feel free to text us.
