@@ -44,7 +44,7 @@ Meet at the American Camp South Beach Parking Lot for a walk along the beach ove
 
 Join us for an evening of wedding celebrations. We’ll have a ceremony on the picturesque ceremony lawn and then walk to the barn to celebrate in style. Please try to arrive by 3:45 pm. There will be a shuttle available from town to bring guests to and from Saltwater Farm.
 
-***Dress**: The dress code is PNW party (cocktail or semi-formal is fine, and anything nicer than jeans preferred). Of note, the walk between the ceremony site and the reception is a bit over a quarter mile of gravel road. If you plan to wear heels, please consider a chunky heel or wedges.*
+***Dress**: The dress code is PNW party (cocktail or semi-formal is great, and anything nicer than jeans preferred). Of note, the walk between the ceremony site and the reception is a bit over a quarter mile of gravel road. If you plan to wear heels, please consider a chunky heel or wedges.*
 
 ##### Ceremony
 ###### 4:00 pm | Ceremony Lawn
