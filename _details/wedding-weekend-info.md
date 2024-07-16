@@ -13,7 +13,9 @@ We recommend arriving **no later than Thursday, August 8** to kickstart your SJI
 <br>
 
 ## Friday, August 9
+
 #### Optional Group Activity Options
+![kayaking](/assets/img/kayak.jpg)![binos](/assets/img/activities.jpg)
 ##### Kayaking
 We set up a 4 hour (2.5 hours on the water) kayak tour with [SeaQuest Kayak Tours](https://sea-quest-kayak.com/) for our wedding guests (unfortunately we won't be able to join since we'll be on a family whale watch) on Friday, August 9th from 10:30 am - 2:30 pm. It's $147 a person (with taxes and 6% credit card fee) and you can [sign up at this link](https://fareharbor.com/embeds/book/sea-quest-kayak/items/409408/availability/1486395850/book/?full-items=yes). Make sure you mention you are on the custom tour with Ira's wedding. Please note: the link says 10:30 - 1:30, but that's just a system limitation on their end.
 
@@ -23,23 +25,30 @@ If you are interested in a [bioluminescent tour](https://sea-quest-kayak.com/kay
 Let us know what else you're interested in [here](https://forms.gle/zTke6H5Ygok3wktx9). We're hoping to connect folks with similar interests for activities and help with reservations (if needed). 
 
 #### Welcome Party 
+
+![garden](/assets/img/garden party.jpg)
+
 ###### 6:00 pm | Garden at Saltwater Farm [176 Sea Breeze Ln, Friday Harbor, WA 98250](https://maps.app.goo.gl/XAzVEw44sGqpBMk1A)
  
 Join us for dinner, drinks, and mingles at Saltwater Farm. There will be a shuttle available from town to bring guests to and from Saltwater. 
 
-***Dress**: Casual PNW finest (flannels, jeans, and birkenstocks (with or without socks), encouraged!)*
-<br>
-<br>
+***Dress**: Casual PNW finest (flannels, jeans, and birkenstocks (with or without socks), encouraged!)* 
 
 ## Saturday, August 10
 On Saturday, August 10, we’re getting married! Join us for a full day of activities:
 
 #### Morning Beach Walk or Run/Hike
+
+![run](/assets/img/run.jpg)
+
 ###### 9:00 am | American Camp [South Beach Parking Lot](https://maps.app.goo.gl/SYcSDYoLq9v2fFeX6)
  
 Meet at the American Camp South Beach Parking Lot for a walk along the beach overlooking the Haro Strait or a short trail run/hike (~3ish miles) through the historic American Camp before the festivities begin!
 
 #### Wedding Festivities
+
+![ceremony](/assets/img/ceremony.jpg)![reception](/assets/img/reception.jpg)
+
 ###### 3:45 pm | Saltwater Farm [176 Sea Breeze Ln, Friday Harbor, WA 98250](https://maps.app.goo.gl/XAzVEw44sGqpBMk1A) 
 
 Join us for an evening of wedding celebrations. We’ll have a ceremony on the picturesque ceremony lawn and then walk to the barn to celebrate in style. Please try to arrive by 3:45 pm. There will be a shuttle available from town to bring guests to and from Saltwater Farm.
@@ -53,16 +62,22 @@ The ceremony will be outside on the ceremony lawn. Please bring a pair of shades
 
 ##### Dinner and Dancing
 ######  5:00 pm - 11:00 pm | Barn
-We'll kick things off with a cocktail hour, followed by family style dinner, and a night of dancing!
+We'll kick things off with a cocktail hour, followed by family style dinner, and a night of dancing! 
 
 ##### Ira's Big Bowling Birthday Bash
+
+![bowling](/assets/img/bowling.jpeg)
+
 ######  11:00 pm - later | [JP's](https://www.jpsrestaurantbar.com/)
-This isn't just any after party, it's Ira's Big Bowling Birthday Bash! Ira has been joking about having a bowling birthday party for two years and we thought - what better time to hold it than directly after our wedding. We'll have a shuttle taking guests from Saltwater Farm to JP's, which is right in Friday Harbor. The shuttle will also take folks home from JP's as well. We bowled a few frames at JP's in May and had a blast - there's bowling, arcade games, pool, music, a gathering space, and a bar. We hope you'll join us!
- 
+This isn't just any after party, it's Ira's Big Bowling Birthday Bash! Ira has been joking about having a bowling birthday party for two years and we thought - what better time to hold it than directly after our wedding. We'll have a shuttle taking guests from Saltwater Farm to JP's, which is right in Friday Harbor. The shuttle will also take folks home from JP's as well. We bowled a few frames at JP's in May and had a blast - there's bowling, arcade games, pool, music, a gathering space, and a bar. We hope you'll join us! 
 
-
+<br>
 ## Sunday, August 11
+
 #### Sendoff Grab and Go Brunch
+
+![brunch](/assets/img/brunch.jpg)
+
 ######  9:30 am | TBD park
 
 Whew! We’re hungry for baked goods, are you? We’ll gather outside near Friday Harbor for some bites as we compare notes about the best dance moves from the night before. 
