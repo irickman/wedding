@@ -78,6 +78,6 @@ This isn't just any after party, it's Ira's Big Bowling Birthday Bash! Ira has b
 
 ![brunch](/assets/img/brunch.jpg)
 
-######  9:30 am | TBD park
+######  9:30 am | Fairweather Park (right by the ferry dock) [204 Front St, Friday Harbor, WA 98250](https://maps.app.goo.gl/fr389fbrZwoEPvrP9)
 
-Whew! We’re hungry for baked goods, are you? We’ll gather outside near Friday Harbor for some bites as we compare notes about the best dance moves from the night before. 
+Whew! We’re hungry for baked goods, are you? We’ll gather outside near the ferry dock in Friday Harbor for some bites as we compare notes about the best dance moves from the night before. You'll be able to grab a bite before hopping on the ferry or float plane or however else you're getting off the island! 
