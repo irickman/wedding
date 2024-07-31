@@ -1,0 +1,8 @@
+{% assign i = site.travel | find: "type", "island" %}
+<section class="container content-section">    
+  <div class="row justify-content-center">    
+    <div class="col-lg-8">
+        <p> {{ i.content | markdownify }} </p>
+    </div>
+  </div>
+</section>

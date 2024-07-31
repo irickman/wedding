@@ -2,11 +2,11 @@
   link: /#ourstory
 - name: Wedding Weekend
   link: /schedule
-- name: Where to Stay
-  link: /where-to-stay
 - name: Transportation
   link: /transportation
-- name: What to Do
+- name: Island Recs
+  link: /island-recs
+- name: PNW Recs
   link: /what-to-do
 - name: FAQ
   link: /faq
@@ -16,6 +16,8 @@
   link: /photo-gallery
 - name: RSVP
   link: /rsvp
+- name: Where to Stay
+  link: /where-to-stay  
 - name: More
   link: /more
 

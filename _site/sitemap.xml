@@ -2,11 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://strawberriesandoysters.com/travel/where-to-stay/</loc>
-<lastmod>2024-07-17T12:33:00-07:00</lastmod>
+<lastmod>2024-07-31T13:42:24-07:00</lastmod>
 </url>
 <url>
 <loc>https://strawberriesandoysters.com/travel/what-to-do/</loc>
-<lastmod>2024-07-17T12:33:00-07:00</lastmod>
+<lastmod>2024-07-31T13:42:24-07:00</lastmod>
+</url>
+<url>
+<loc>https://strawberriesandoysters.com/travel/island-recs/</loc>
+<lastmod>2024-07-31T13:42:24-07:00</lastmod>
 </url>
 <url>
 <loc>https://strawberriesandoysters.com/faq/</loc>
@@ -16,6 +20,9 @@
 </url>
 <url>
 <loc>https://strawberriesandoysters.com/</loc>
+</url>
+<url>
+<loc>https://strawberriesandoysters.com/island-recs/</loc>
 </url>
 <url>
 <loc>https://strawberriesandoysters.com/livestream/</loc>
