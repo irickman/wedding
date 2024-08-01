@@ -6,15 +6,38 @@ San Juan Island is a summer paradise! We’ll have wedding-related events and ac
 
 #### Island Activities
 ![kayaking](/assets/img/kayak.jpg)![binos](/assets/img/activities.jpg)
+
+##### Whale Watching
+Whale watching is one of our absolute favorite activities in the San Juans! There are a few different types of whales that frequent the area (orcas, humpbacks, grays) and you have a very high chance of seeing them! We'd recommend going on a whale watch longer than 3 hours to increase your chances, since the whale watch tour groups have scouts who will let them know where the whales are in the early morning, so a longer tour lets you travel farther to go see them if needed. Here are a few operators we've heard good things about:
+* [San Juan Safaris](https://www.sanjuansafaris.com/whale-watching-tours-come-join-us-san-juan-safaris)
+* [Maya's Legacy](https://sanjuanislandwhalewatch.com/whale-watching/)
+* [Western Prince](https://orcawhalewatch.com/)
+
+There are other operators too, so go with the provider that floats your boat!  
+
 ##### Kayaking
 We set up a 4 hour (2.5 hours on the water) kayak tour with [SeaQuest Kayak Tours](https://sea-quest-kayak.com/) for our wedding guests (unfortunately we won't be able to join since we'll be on a family whale watch) on Friday, August 9th from 10:30 am - 2:30 pm. It's $147 a person (with taxes and 6% credit card fee) and you can [sign up at this link](https://fareharbor.com/embeds/book/sea-quest-kayak/items/409408/availability/1486395850/book/?full-items=yes). Make sure you mention you are on the custom tour with Ira's wedding. Please note: the link says 10:30 - 1:30, but that's just a system limitation on their end.
 
 If you are interested in a [bioluminescent tour](https://sea-quest-kayak.com/kayaking-san-juan-islands/bioluminescence-kayak-tours/) or longer [6 hour tour](https://sea-quest-kayak.com/kayaking-san-juan-islands/1-day-san-juan-kayaking-trips/) (which they highly recommend) please feel free to sign up for that instead! 
 
-##### Other Activities
-Let us know what else you're interested in [here](https://forms.gle/zTke6H5Ygok3wktx9). We're hoping to connect folks with similar interests for activities and help with reservations (if needed).   
+##### Biking
+If you're interested in renting bikes or e-bikes, you can do so from any of the shops listed [here](https://www.visitsanjuans.com/san-juan-bicycling). The island is pretty bicycle friendly, just be mindful of cars. There are some moderate hills on the west side, but it's also very pretty over there. The rental shops will likely sell out so we'd recommend reserving in advance!
+
+##### Wine Tasting
+There's a nice winery called [San Juan Vineyard](https://www.sanjuanvineyard.com/) on the east side of the island, about 5 minutes outside of Friday Harbor. They have a lovely patio to enjoy their wines! 
+
+There's also a wonderful wine bar in Friday Harbor called [Madrone Cellars](https://www.madronecellars.com/visit) that we like a lot. Both are great options!
+
+##### Gin Tasting
+We absolutely love [San Juan Island Distillery](https://www.sanjuanislanddistillery.com/), they make some fantastic gins using an apple brandy base and many other local ingredients. They do tastings 1-4 pm on Saturdays and Sundays, however you can text them at 360-472-1532 to see if they're free another day. If we get more than 5 people who are interested, we can arrange a group tasting on Friday. Let Ira know if you'd like to go gin tasting Friday!
+
+##### Bird Watching
+San Juan Island is a wonderful bird watching destination. We'd recommend the loop at [Zylstra Lake Preserve](https://tuckerharrisoninn.com/blog/walking-san-juan-island-zylstra-lake-preserve/). If you want to borrow some binoculars or birding books, let us know!
+
+##### Hiking
+While the hiking on the island isn't as grand as the rest of the PNW, there's some nice trails out there! We really liked [Young Hill](https://www.wta.org/go-hiking/hikes/young-hill), anything at [American Camp](https://www.wta.org/go-hiking/hikes/american-camp-and-south-beach) (though we will be there Saturday morning for our pre-wedding run/hike), hiking around [Lime Kiln State Park](https://www.wta.org/go-hiking/hikes/lime-kiln-state-park), and [Mt. Grant Preserve](https://sjpt.org/visit-our-preserves/mount-grant-preserve/).
+
 <br>
-  
 #### Friday Harbor faves
 ##### Drinks
 * San Juan Island Brewing
