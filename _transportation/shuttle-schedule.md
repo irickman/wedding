@@ -19,6 +19,7 @@ We've got shuttles running on Friday and Saturday nights to get you all to and f
     * Tucker House Inn: 5:55 pm
     * Nichols Street Suites: 6:00 pm
     * Friday Harbor Grand: 6:05 pm
+    * Orca Inn: 6:10 pm
 * Drop off at Saltwater: 6:15 pm
 
 ##### From Welcome Party
@@ -43,6 +44,7 @@ Return shuttles will begin running at 8 pm with the last pickup from Saltwater F
     * Tucker House Inn: 3:20 pm
     * Nichols Street Suites: 3:25 pm
     * Friday Harbor Grand: 3:30 pm
+    * Orca Inn: 3:35 pm
 * Drop off at Saltwater: 3:40 pm
 
 ##### From Reception
