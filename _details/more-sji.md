@@ -12,6 +12,12 @@ Hello nerds, one and all! We’ve curated a reading/listening list for all your 
 * [San Juan County -- Thumbnail History](https://www.historylink.org/File/7505) (HistoryLink.org, October 4, 2005)
 * [Mitchell Bay Tribe Descendants (San Juan Island) and Their Struggle for Lost Treaty Rights](https://www.historylink.org/File/21075#:~:text=Coast%20Salish%20Life%20on%20San%20Juan%20Island&text=Artifacts%20and%20human%20remains%20suggest,long%20history%20in%20the%20area) (HistoryLink.org, July 20, 2020)
 
+#### Coast Salish People
+* [Salmon People](https://settingsunproductions.org/salmon-people)
+* [For Coast Salish communities, the race to save southern resident orcas is personal](https://www.nationalobserver.com/2019/09/17/news/coast-salish-communities-race-save-southern-resident-orcas-personal) (Canada's National Observer, September 17, 2019)
+* [Can This Tribe of 'Salmon People' Pull Off One More Win?](https://www.nytimes.com/2021/10/22/opinion/lummi-climate-change-port-terminal.html)(New York Times, October 10, 2022)
+* [Lummi Nation gets almost $10 million to help save endangered Chinook salmon on Nooksack River](https://www.bellinghamherald.com/news/local/article286837395.html) (Bellingham Herald, March 19, 2024)
+
 #### Local News
 * [San Juan Island foxes and their playful pups attract tourists](https://www.seattletimes.com/seattle-news/san-juan-island-foxes-and-their-playful-pups-attract-tourists/) (Seattle Times, May 24, 2024)
 * [Visionary Bert Webber:“Good Science Is Stewardship”](http://apps.knkx.org/SalishSea/visionary/) (KNKX, 2017) - We went on a bird watching trip with Bert aboard his old boat and he shared the history of the Salish Sea and how it got its name!
